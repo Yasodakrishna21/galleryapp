@@ -1,0 +1,12 @@
+img {
+    border-radius: 8px;
+  }
+
+.gallery{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+
+.style{
+  margin: 10px;
+}
